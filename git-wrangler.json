@@ -1,0 +1,27 @@
+{
+    "version": "0.4.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.4.1/git-wrangler_0.4.1_windows_amd64.zip",
+            "bin": [
+                "git-wrangler.exe"
+            ],
+            "hash": "f4f4046dae05cd98edc61ba96f0ed1bfc7ad785bb3cae10fb9c6fa9077828c6c"
+        },
+        "arm64": {
+            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.4.1/git-wrangler_0.4.1_windows_arm64.zip",
+            "bin": [
+                "git-wrangler.exe"
+            ],
+            "hash": "26c341bf62df1ee9f73cac2341e952fb44732e3b28bf1be434eae7cc2c64f687"
+        }
+    },
+    "homepage": "https://github.com/kaufmann-dev/git-wrangler",
+    "license": "MIT",
+    "description": "Orchestrate Git operations across many repositories.",
+    "depends": [
+        "git",
+        "gh",
+        "git-filter-repo"
+    ]
+}
