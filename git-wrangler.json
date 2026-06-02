@@ -1,19 +1,19 @@
 {
-    "version": "0.5.3",
+    "version": "0.5.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.5.3/git-wrangler_0.5.3_windows_amd64.zip",
+            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.5.4/git-wrangler_0.5.4_windows_amd64.zip",
             "bin": [
                 "git-wrangler.exe"
             ],
-            "hash": "99e26aa792f894ab2783861203a0794f894c52589dddbdcceefd0c41762b1e8e"
+            "hash": "5747354d09280d68f64d749cdf6479376f941e7f6c172db526782942e82b9e8c"
         },
         "arm64": {
-            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.5.3/git-wrangler_0.5.3_windows_arm64.zip",
+            "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.5.4/git-wrangler_0.5.4_windows_arm64.zip",
             "bin": [
                 "git-wrangler.exe"
             ],
-            "hash": "60d8457f19e3ca23f732d8212e319c373432583601e18d30a13b95ad3e18664a"
+            "hash": "53dfd1f0e17f67b410d449eaf2d2a22002d6cc3a8a5b87284145a5c1f4707f96"
         }
     },
     "homepage": "https://github.com/kaufmann-dev/git-wrangler",
