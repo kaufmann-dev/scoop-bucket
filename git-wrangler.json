@@ -6,14 +6,14 @@
             "bin": [
                 "git-wrangler.exe"
             ],
-            "hash": "5747354d09280d68f64d749cdf6479376f941e7f6c172db526782942e82b9e8c"
+            "hash": "03d3e60adc7860d7c9ddd848a85866687962a0355ef6c7abb2fd588f42a5c9ac"
         },
         "arm64": {
             "url": "https://github.com/kaufmann-dev/git-wrangler/releases/download/v0.5.4/git-wrangler_0.5.4_windows_arm64.zip",
             "bin": [
                 "git-wrangler.exe"
             ],
-            "hash": "53dfd1f0e17f67b410d449eaf2d2a22002d6cc3a8a5b87284145a5c1f4707f96"
+            "hash": "1b7dabad83ffc9bcb3d3cd8bc60c45d1dcf4e9bc1d76afda39e0e50319fff682"
         }
     },
     "homepage": "https://github.com/kaufmann-dev/git-wrangler",
